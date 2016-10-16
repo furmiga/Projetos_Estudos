@@ -1,0 +1,23 @@
+{
+  "List":
+  {
+    "aluno":[
+      {
+        "id":"1",
+        "nome":"Victor",
+        "endereco":"osasco",
+        "telefone":"123456",
+        "site":"www.teste.com",
+        "nota":"4.5"
+      },
+      {
+        "id":"2",
+        "nome":"Carlos",
+        "endereco":"barueri",
+        "telefone":"2332",
+        "site":"www.teste.com",
+        "nota":"3.5"
+      }
+    ]
+  }
+}
